@@ -1,0 +1,10 @@
+1. linked lists make use of nodes that form a chain
+2. so use node as a seperate entity so that it can be reused 
+3. a linked list has head, tail pointers and the length
+4. operations that are to be performed are: push, pop, unshift, shift, get, set, insert, remove and reverse.
+5. usually these are unidirectional
+
+Pushing:
+1. create a new node
+2. append it to the end
+3. change the tail pointer to the one pushed last.
