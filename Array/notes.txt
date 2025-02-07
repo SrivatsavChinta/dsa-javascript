@@ -1,0 +1,4 @@
+1. Array has push, pop, shift, unshift, filter and reduce properties
+2. These are indexed in consecutive memory locations
+
+normal array has indexes as the key and values mapped to those keys
